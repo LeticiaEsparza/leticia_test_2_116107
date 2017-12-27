@@ -76,5 +76,3 @@ explore: user_data {
 }
 
 explore: users {}
-
-explore: users_nn {}
